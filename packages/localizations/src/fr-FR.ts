@@ -719,7 +719,7 @@ export const frFR: LocalizationResource = {
       subtitle: 'pour continuer vers {{applicationName}}',
       subtitleCombined: undefined,
       title: "S'identifier",
-      titleCombined: undefined,
+      titleCombined: "Continuer vers {{applicationName}}",
     },
     totpMfa: {
       formTitle: 'Le code de vérification',
